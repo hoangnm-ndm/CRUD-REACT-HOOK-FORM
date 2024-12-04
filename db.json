@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "San pham 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "San pham 2",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "title": "San pham 3",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "title": "San pham 4",
+      "price": 100
+    }
+  ],
+  "users": [
+    {
+      "email": "hoang@gmail.com",
+      "password": "$2a$10$EXW/Vp9FzPFPwEVUavs1ou02ocowisFgGbpSotMS34lAldmWudfJO",
+      "username": "hoangnm",
+      "confirmPass": "123456",
+      "id": 1
+    },
+    {
+      "email": "hoangnm@gmail.com",
+      "password": "$2a$10$LfTuzz3vFkSdxUma8.WcPeTWUZLRTR7vFcQG2xxCxFvcsOUjbrzke",
+      "username": "1111111",
+      "confirmPass": "1111111",
+      "id": 2
+    },
+    {
+      "email": "f8@gmail.com",
+      "password": "$2a$10$goSqIu7WDFTKs76xs9EbHOWMOU6kwEvOnibEsuyeDGmPraGZNdmwC",
+      "username": "f8vippro",
+      "confirmPass": "111111",
+      "id": 3
+    },
+    {
+      "email": "hoang98@gmail.com",
+      "password": "$2a$10$rcDWExI9u1eVf3bDN7kx5OsunPwlKHFoMGWuLkrMGprSCD5MlDdMa",
+      "username": "hoang98",
+      "confirmPass": "hoang98",
+      "id": 4
+    }
+  ]
+}

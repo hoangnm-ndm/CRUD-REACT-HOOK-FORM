@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	padding: 24px;
+	background-color: #000;
+	color: #fff;
+}
+
+form {
+	width: 400px;
+	max-width: 100%;
+	margin: 100px auto 0;
+}
